@@ -689,6 +689,7 @@ PRODUCT_PACKAGES += \
     libwfdnative \
     vendor.qti.diaghal@1.0 \
     vendor.qti.imsrtpservice@3.0 \
+    RazerCamera \
     CneApp \
     IWlanService \
     TimeService \
